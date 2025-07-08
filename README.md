@@ -4,7 +4,7 @@
 
 В этом репозитории собрана **актуальная карта технологий для Java-разработчиков**. Материалы помогут структурировать подготовку к собеседованиям на позиции от Junior до Senior и Architect.
 
-![Java Interview](https://github.com/user-attachments/assets/c9fae8a7-e131-4727-bbd7-ea762493898f)
+![Java Interview](https://github.com/user-attachments/assets/70a62fdc-7432-4707-a21e-0b8e9d91dbc3)
 
 ## Что внутри
 
@@ -31,5 +31,3 @@
 Если вы хотите предложить улучшения или добавить новые материалы — приветствуются pull request’ы и обсуждения в Issues!
 
 **Удачи в подготовке и успешных собеседований!**
-
-Sources
